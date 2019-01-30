@@ -1,0 +1,10 @@
+{
+  "port":"12345",
+  "database":{
+    "name":"akash_project",
+    "host":"localhost",
+    "port":"3306",
+    "username":"akash",
+    "password":"abcd1234"
+  }
+}
